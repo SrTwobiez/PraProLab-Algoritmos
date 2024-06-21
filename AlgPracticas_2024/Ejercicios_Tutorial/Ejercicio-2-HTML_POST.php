@@ -2,7 +2,7 @@
 
 if ($_POST) {
 
-// Recibir información del formulario HTML ( Método POST).
+// Recibir información del formulario HTML de abajo ( Método POST).
     $nombre=$_POST['txtNombre'];
 
     echo "Hola", $nombre;
@@ -19,11 +19,13 @@ if ($_POST) {
 </head>
 <body>
 
-    <form action="Ejercicio-II.php" method="post">
+    <form action="Ejercicio-2-HTML_POST.php" method="post">
+
         Nombre:
         <input type="text" name="txtNombre" id="">
         <br/>
         <input type="submit" value="Enviar">
+        
     </form>
 
 </body>
