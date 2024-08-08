@@ -1,0 +1,24 @@
+Repositorio en GitHub: https://github.com/C1RUJ4N0/Innova-Soft-Labs/tree/main
+
+CONSIGNAS:
+	-Resolver individualmente estos trabajos.
+	-Luego todos los archivos PSeINT comprimirlos en una carpeta con el siguiente Formato "Apellido y Nombre - PSeINT" 	excluyendo las comillas dobles.
+	-Subir el trabajo al repositorio del equipo e incluirme en el repositorio si todavìa no estoy en él
+	-ACLARACIÓN- si es la primera vez que vas a subir a un repositorio remoto debes:
+		-por ejemplo: clonar el repositorio remoto en tu computadora con GIT CLONE https://github.com/Licsis/Trabajos.git -> URL del repositorio del equipo
+		-luego en la carpeta clonada subir tu archivo comprimido y ejecutar GIT ADD . 
+		-seguido de GIT COMMIT -M "mensaje conciso de lo que se agregó/modificó/eliminó"
+	 	-finalmente GIT PUSH  
+
+CONSIGNAS:
+1- El sistema requiere ingresar la edad del usuario, verificar si es mayor de edad y mostrar por pantalla la siguente leyenda: es mayor de edad, de lo contrario es menor de edad, teniendo en cuenta que la mayoría de edad es cuando tiene 18 o más años.
+
+2- En base al ejercicio anterior, incorporar lo siguiente, si es mayor de edad y tiene la estatura menor o igual a 170 centímetros, mostrar por pantalla el siguiente mensaje "Puede ingresar a la montaña rusa", de lo contrario "No puede ingresar". 
+
+3- Hallar el Aumento al Sueldo que le corresponde a un empleado; si el sueldo está entre $320.000 y $500.000 su aumento será del 5%, pero si su sueldo es menor el aumento será del 8%; finalmente mostrar por pantalla el sueldo y su respectivo aumento. Por ejemplo -> "Su sueldo es: $350.000 y su aumento es: $367.500"
+
+3- Solicitar al usuario las 5 notas de un estudiante, se desea obtener el promedio, teniendo encuenta que las notas no deben ser superiores a 10 puntos ni inferior a 0 puntos; finalmente mostrar el promedio por pantalla. 
+
+4- Se necesita que el usuario ingrese su salario, nombre y años trabajando en una empresa, se desea mostrar sus datos por pantalla con el siguiente formato ->  "El Señor NOMBRE, Cuenta con un salarido de: SALARIO; y lleva trabajando para nosotros AÑOS_TRABAJADOS Años".
+
+5- Siguiendo el ejercicio anterior, agregar que si tiene entre 10 a 15 años trabajando y si su salario es igual o inferior a $350.000,00 debe mostrar el siguiente mensaje -> El Señor NOMBRE, Cuenta con un salarido de: SALARIO; y lleva trabajando para nosotros AÑOS_TRABAJADOS Años, Le corresponde "Vacaciones pagas" de lo contrario "No tendrá vacaciones pagas".
